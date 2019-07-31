@@ -1,0 +1,81 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Month"	"Month Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval	Crude Rate Standard Error	% of Total Deaths
+"Total"	"Alabama"	"01"					27	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	3.7%
+"Total"	"Arizona"	"04"					25	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	3.4%
+"Total"	"Arkansas"	"05"					11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	1.5%
+"Total"	"California"	"06"					15	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	2.1%
+"Total"	"Colorado"	"08"					31	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	4.3%
+"Total"	"Florida"	"12"	"2002"	"2002"			10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	1.4%
+"Total"	"Florida"	"12"	"2003"	"2003"			10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	1.4%
+"Total"	"Florida"	"12"	"2004"	"2004"			10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	1.4%
+"Total"	"Florida"	"12"	"2007"	"2007"			11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	1.5%
+"Total"	"Florida"	"12"					108	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	14.8%
+"Total"	"Georgia"	"13"					39	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	5.3%
+"Total"	"Illinois"	"17"					10	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	1.4%
+"Total"	"Kentucky"	"21"					13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	1.8%
+"Total"	"Louisiana"	"22"					27	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	3.7%
+"Total"	"Michigan"	"26"					19	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	2.6%
+"Total"	"Mississippi"	"28"					20	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	2.7%
+"Total"	"Missouri"	"29"					22	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	3.0%
+"Total"	"New Jersey"	"34"					13	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	1.8%
+"Total"	"New York"	"36"					18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	2.5%
+"Total"	"North Carolina"	"37"					23	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	3.2%
+"Total"	"Ohio"	"39"					23	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	3.2%
+"Total"	"Oklahoma"	"40"					11	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	1.5%
+"Total"	"Pennsylvania"	"42"					22	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	3.0%
+"Total"	"South Carolina"	"45"					18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	2.5%
+"Total"	"Tennessee"	"47"					16	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	2.2%
+"Total"	"Texas"	"48"					69	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	9.5%
+"Total"	"Utah"	"49"					19	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	2.6%
+"Total"	"Virginia"	"51"					18	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	2.5%
+"Total"	"Wisconsin"	"55"					15	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	2.1%
+"Total"							729	Not Applicable	Not Applicable	Not Applicable	Not Applicable	Not Applicable	100.0%
+"---"
+"Dataset: Underlying Cause of Death, 1999-2017"
+"Query Parameters:"
+"Title: Lightning Deaths"
+"ICD-10 Codes: X33 (Victim of lightning)"
+"Group By: State; Year; Month"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Jul 29, 2019 5:02:03 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Jul 29, 2019 5:02:03 PM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"4. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"5. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"6. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"7. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"8. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Confidence-Intervals."
+"9. The method used to calculate standard errors is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Standard-Errors."
+"10. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."

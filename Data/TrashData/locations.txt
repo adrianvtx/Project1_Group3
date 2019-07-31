@@ -1,0 +1,12 @@
+-96.2	31.5	Rch Rd, Donie, TX 75838, USA
+-79.1	31.5	Atlantic Ocean
+-78.9	30.5	Atlantic Ocean
+-77.8	29.7	Atlantic Ocean
+-77.6	29.9	Atlantic Ocean
+-78.4	29.8	Atlantic Ocean
+-91.8	28.8	Gulf of Mexico
+-91.7	28.8	Gulf of Mexico
+-95.6	26.8	Gulf of Mexico
+-95.4	27.1	Gulf of Mexico
+-90.1	29.2	Golden Meadow, LA 70357, USA
+-90.5	29	Gulf of Mexico
